@@ -47,7 +47,7 @@ function Landing() {
                   data-aos="zoom-y-out"
                   data-aos-delay="150"
                 >
-                  You can't stop the waves, but you can learn to surf.{" "} 
+                  You can&apos;t stop the waves, but you can learn to surf.{" "} 
                   
                   <cite>
                     Carlos
