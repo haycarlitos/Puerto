@@ -8,7 +8,7 @@ export default function getContract() {
   const signer = provider.getSigner();
   // Creating a new contract factory with the signer, address and ABI
   let contract = new ethers.Contract(
-    "0xf6F03b0837569eec33e0Af7f3F43B362916e5de1",
+    "0x3D0CD8b4c81aeD2F1A8D3b0092b5605f51529953",
     ContractAbi.abi,
     signer
   );

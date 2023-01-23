@@ -50,7 +50,7 @@ function Landing() {
                   You can&apos;t stop the waves, but you can learn to surf.{" "} 
                   
                   <cite>
-                    Carlos
+                    Jon Kabat-Zinn
                   </cite>
                 </p>
                 <p

@@ -1,4 +1,5 @@
 require("@nomicfoundation/hardhat-toolbox");
+require("hardhat-deploy-ethers");
 require("dotenv").config();
 
 module.exports = {
